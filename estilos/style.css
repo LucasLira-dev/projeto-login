@@ -12,7 +12,7 @@ body {
 }
 main {
     margin: auto;
-    width: 200px;
+    width: 250px;
     padding-top: 150px;
     
     
@@ -23,7 +23,7 @@ main {
 
 
 #imagem img{
-    width: 197px;
+    width: 245px;
     border: 2px solid #5f2c82;
     border-radius: 15px 15px 0px 0px;
    
@@ -58,7 +58,7 @@ label input {
     color: white;
     border: 3px solid #5f2c82;
     
-    width: 175px;
+    width: 210px;
     height: 20px; 
 
      
@@ -106,7 +106,7 @@ label input {
     background-color: #1e9793;
     color: white;
     text-align: center;
-    width: 180px;
+    width: 220px;
     height: 25px; 
     border-radius: 5px 5px;
     padding-left: 2px;
@@ -117,7 +117,7 @@ label input {
 #senhae {
     background-color: white;
     text-align: center;
-    width: 180px;
+    width: 220px;
     height: 25px;
     border-radius: 5px;
     padding-left: 2px;
