@@ -9,11 +9,13 @@ body {
     background-color: #5f2c82;
     position: relative;
     
+    
 }
 main {
     margin: auto;
     width: 250px;
     padding-top: 150px;
+    
     
     
     
@@ -58,7 +60,7 @@ label input {
     color: white;
     border: 3px solid #5f2c82;
     
-    width: 210px;
+    width: 195px;
     height: 20px; 
 
      
@@ -68,14 +70,18 @@ label input {
  
 #usuario {
     position: absolute;
-    width: 25px;
+    top: 458px;
+    border-radius: 10px 0px 0px 10px;
+    width: 27px;
+    margin-left: -4px;
     background-color: #5f2c82;
 
 }
 
 #icon2 {
     position: absolute;
-    width: 25px;
+    border-radius: 10px 0px 0px 10px;
+    width: 27px;
     background-color: #5f2c82;
 }
 
@@ -84,12 +90,13 @@ label input {
 #email {
     
     background-color: #49a09d ;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 0px 10px 10px 0px;
     margin-bottom: 2px;
-    padding-left: 2px;
+    margin-left: 20px;
     
 
 }
+
 
 
 #senha {
@@ -97,7 +104,9 @@ label input {
     border-radius: 10px 10px 10px 10px;
     background-color: #49a09d;
     margin-bottom: 5px;
-    padding-left: 2px;
+    
+    margin-left: 21px;
+    
     
 
     

@@ -18,15 +18,19 @@
                     login
                 </h1>
                 <p> Seja bem-vindo(a) novamente. Faça login para acessar sua conta e poder fazer as configurações no seu ambiente </p>
-                <form action="login.php" method="post">
+                <p>
+                    <img src="imagens/usuario.webp" alt="icon do usuario" id="usuario"> 
+                </p>
+                <form action="login.php" method="post" autocomplete="on">
+                    
                     <p>
-                        
-                    <label for="email"> <img src="imagens/usuario.webp" alt="icon do usuario" id="usuario">
-                        <input type="text" name="email" id="email" placeholder="        seu email"> <br>
+                       
+                    <label for="email"> 
+                        <input type="text" name="email" id="email" placeholder="digite seu email" maxlength="20" autocomplete="email" required>  <br> 
                     </label>
 
                     <label for="senha"> <img src="imagens/senha.webp" alt="icon senha" id="icon2">
-                        <input type="password" name="senha" id="senha" placeholder="        sua senha">
+                        <input type="password" name="senha" id="senha" placeholder="        sua senha" minlength="8" maxlength="10" required>
                     </label>
                     
 
