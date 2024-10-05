@@ -1,0 +1,126 @@
+@charset "UTF-8";
+
+/* PALETA DE CORES:
+verde: #49a09d
+lilás: #5f2c82 */ 
+
+
+body {
+    background-color: #5f2c82;
+    position: relative;
+    
+}
+main {
+    margin: auto;
+    width: 200px;
+    padding-top: 150px;
+    
+    
+    
+
+}
+
+
+
+#imagem img{
+    width: 197px;
+    border: 2px solid #5f2c82;
+    border-radius: 15px 15px 0px 0px;
+   
+    
+    
+
+}
+
+div#formulario {
+    background-color: white;
+    margin-top: -30px;
+    border: 2px solid #5f2c82;
+    border-radius: 15px 15px 15px 15px;
+   
+        
+    
+}
+
+h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+p {
+    padding-left: 10px;
+    background-color: white;
+
+}
+
+label input {
+    background-color: #5f2c82;
+    color: white;
+    border: 3px solid #5f2c82;
+    
+    width: 175px;
+    height: 20px; 
+
+     
+}
+
+
+ 
+#usuario {
+    position: absolute;
+    width: 25px;
+    background-color: #5f2c82;
+
+}
+
+#icon2 {
+    position: absolute;
+    width: 25px;
+    background-color: #5f2c82;
+}
+
+
+   
+#email {
+    
+    background-color: #49a09d ;
+    border-radius: 10px 10px 10px 10px;
+    margin-bottom: 2px;
+    padding-left: 2px;
+    
+
+}
+
+
+#senha {
+    
+    border-radius: 10px 10px 10px 10px;
+    background-color: #49a09d;
+    margin-bottom: 5px;
+    padding-left: 2px;
+    
+
+    
+}
+#enviar {
+    background-color: #1e9793;
+    color: white;
+    text-align: center;
+    width: 180px;
+    height: 25px; 
+    border-radius: 5px 5px;
+    padding-left: 2px;
+    margin-bottom: 3px;
+    
+}
+
+#senhae {
+    background-color: white;
+    text-align: center;
+    width: 180px;
+    height: 25px;
+    border-radius: 5px;
+    padding-left: 2px;
+    margin-bottom: 40px;
+
+}
