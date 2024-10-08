@@ -73,8 +73,8 @@ label input {
     border-radius: 10px 0px 0px 10px;
 
     width: 26px;
-    height: 26px;
-    margin-left: 3px;
+    height: 27px;
+    margin-left: 13px;
     background-color: #5f2c82;
 
 }
@@ -84,8 +84,9 @@ label input {
     border-radius: 10px 0px 0px 10px;
     color: white;
     width: 26px;
+    height: 27px;
     
-    margin-left: 3px;
+    margin-left: 13px;
     background-color: #5f2c82;
 }
 
@@ -96,7 +97,7 @@ label input {
     background-color: #49a09d ;
     border-radius: 0px 10px 10px 0px;
     margin-bottom: 2px;
-    margin-left: 20px;
+    margin-left: 30px;
    
     
 
@@ -109,7 +110,7 @@ label input {
     border-radius: 0px 10px 10px 0px;
     background-color: #49a09d;
     margin-bottom: 5px;
-    margin-left: 21px;
+    margin-left: 30px;
     
     
 
@@ -120,11 +121,11 @@ label input {
     color: white;
     text-align: center;
     width: 220px;
-    height: 30px; 
+    height: 27px; 
     border-radius: 10px 10px 10px 10px;
     padding-left: 2px;
     margin-bottom: 3px;
-    margin-left: 2px;
+    margin-left: 10px;
     
 }
 
@@ -132,9 +133,10 @@ label input {
     background-color: white;
     text-align: center;
     width: 220px;
-    height: 30px;
+    height: 27px;
     border-radius: 10px;
     padding-left: 2px;
+    margin-left: 10px;
     margin-bottom: 40px;
 
 }
