@@ -71,8 +71,10 @@ label input {
 #usuario {
     position: absolute;
     border-radius: 10px 0px 0px 10px;
-    width: 27px;
-    margin-left: -4px;
+
+    width: 26px;
+    height: 26px;
+    margin-left: 3px;
     background-color: #5f2c82;
 
 }
@@ -80,8 +82,10 @@ label input {
 #icon2 {
     position: absolute;
     border-radius: 10px 0px 0px 10px;
-    width: 27px;
-    margin-left: -4px;
+    color: white;
+    width: 26px;
+    
+    margin-left: 3px;
     background-color: #5f2c82;
 }
 
@@ -93,6 +97,7 @@ label input {
     border-radius: 0px 10px 10px 0px;
     margin-bottom: 2px;
     margin-left: 20px;
+   
     
 
 }
@@ -104,7 +109,6 @@ label input {
     border-radius: 0px 10px 10px 0px;
     background-color: #49a09d;
     margin-bottom: 5px;
-    
     margin-left: 21px;
     
     
@@ -116,10 +120,11 @@ label input {
     color: white;
     text-align: center;
     width: 220px;
-    height: 25px; 
-    border-radius: 5px 5px;
+    height: 30px; 
+    border-radius: 10px 10px 10px 10px;
     padding-left: 2px;
     margin-bottom: 3px;
+    margin-left: 2px;
     
 }
 
@@ -127,8 +132,8 @@ label input {
     background-color: white;
     text-align: center;
     width: 220px;
-    height: 25px;
-    border-radius: 5px;
+    height: 30px;
+    border-radius: 10px;
     padding-left: 2px;
     margin-bottom: 40px;
 
