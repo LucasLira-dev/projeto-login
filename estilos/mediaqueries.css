@@ -6,24 +6,29 @@
         background-image: linear-gradient(to top, #49a09d, #5f2c82 );
     }
     #login  {
-        width: 80vw;
+        width: 60vw;
     }
 
     section#login > div#imagem {
         float: left;
-        width: 30%;
-        height: 100%;
+        width: 25%;
+        height: 61%;
+        border-radius: 0px 20px 0px 20px;
     }
     
     section#login > div#formulario {
         float: right;
-        width: 70%;
-        height: 100vh ;
+        width: 75%;
+        height: 67% ;
+        border-radius: 20px 20px 20px 0px;
         
     }
 
+    div.campo {
+        margin-top: 20px;
+    }
     p {
-        font-size: 1.2em;
+        font-size: 1em;
     }
 
     h1 {
@@ -49,13 +54,53 @@
         float: right;
         width: 50%;
         height: 100%;
+        border-radius: 0px 0px 0px 0px 
     }
     
     section#login > div#formulario {
         float: left;
         width: 50%;
-        height: 100vh ;
+        height: 100vh;
+        
         
     }
+
+    p {
+        font-size: 1.7em;
+    }
+
+    div.campo {
+        margin-top: 60px;
+    }
+    #usuario {
+        height: 30px;
+    }
+
+    #icon2 {
+        height: 30px;
+    }
+    #email {
+        width: 400px;
+        height: 30px;
+    }
+
+    #senha {
+        width: 400px;
+        height: 30px;
+    
+    }
+
+    #enviar {
+        width: 420px;
+        height: 30px;
+    }
+    
+    #senhae {
+        width: 420px;
+        height: 30px;
+    
+    }
+
+
     
  }
