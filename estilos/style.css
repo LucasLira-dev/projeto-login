@@ -79,7 +79,7 @@ p {
 
 }
 
-label input {
+ input {
     background-color: #5f2c82;
     color: white;
     border: 3px solid #5f2c82;
@@ -108,9 +108,9 @@ label input {
     border-radius: 10px 0px 0px 10px;
     color: black;
     width: 20px;
-    height: 24px;
+    height: 25px;
     
-    margin-left: 10px;
+    margin-left: 11px;
     background-color: #5f2c82;
 }
 
